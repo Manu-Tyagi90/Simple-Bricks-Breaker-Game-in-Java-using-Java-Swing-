@@ -1,6 +1,6 @@
 # Brick Breaker in Java
 
-[![BRICK BREAKER GAME]](https://github.com/Manu-Tyagi90/Simple-Bricks-Breaker-Game-in-Java-using-Java-Swing-/blob/main/Brick%20Breaker%20Game.mp4)
+[!BrickBreakerGame (Brick Breaker Game.mp4)
 
 
 ## Overview

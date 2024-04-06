@@ -1,6 +1,6 @@
 # Brick Breaker in Java
 
-[!BrickBreakerGame (Brick Breaker Game.mp4)
+!BrickBreakerGame (Brick Breaker Game.mp4)
 
 
 ## Overview
